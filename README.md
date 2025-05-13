@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tayyab Raza</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
+ <img src="https://media.tenor.com/wF5RiCnfj34AAAAM/work-computer.gif" alt="developer" width="400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyab-raza&label=Profile%20views&color=0e75b6&style=flat" alt="tayyab-raza" /> </p>
 
