@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **traza9192@gmail.com**
 
-- ⚡ Fun fact **I am a full stack dev who talks to your rubber duck more than your coworkers—and the duck’s been promoted twice. 🐤💻**
+- ⚡ Fun fact **I am a full stack dev who talks to my rubber duck more than your coworkers—and the duck’s been promoted twice. 🐤💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
