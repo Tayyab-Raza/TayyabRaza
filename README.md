@@ -2,7 +2,7 @@
 
 ## 📈 Contribution Graph:
 <!-- [![Tayyab's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tayyab-Raza)](https://github.com/Tayyab-Raza/github-readme-activity-graph) -->
-![Tayyab's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nickseth71&bg_color=0d1117&color=fb8c00&line=ebbe0b&point=ffffff&area=true&hide_border=true)
+![Tayyab's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tayyab-Raza&bg_color=0d1117&color=fb8c00&line=ebbe0b&point=ffffff&area=true&hide_border=true)
 
 ## 📊 GitHub Stats:
 <p align = "center">
