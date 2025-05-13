@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer</h3>
  <img src="https://media.tenor.com/wF5RiCnfj34AAAAM/work-computer.gif" alt="developer" width="400" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyab-raza&label=Profile%20views&color=0e75b6&style=flat" alt="tayyab-raza" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyab-raza&label=Profile%20views&color=0e75b6&style=flat" alt="tayyab-raza" align="center" /> </p>
 
 - 🔭 I’m currently working on **Hush Express Freely's Backend**
 
