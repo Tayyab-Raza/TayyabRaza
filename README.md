@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tayyab Raza</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTllanI0anJleWVvMnF5Ynlpc28wOTR5enpvcjg2Nm1vMzhwNzFkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="developer" width="400" align="center" />
+ <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTllanI0anJleWVvMnF5Ynlpc28wOTR5enpvcjg2Nm1vMzhwNzFkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="developer" width="500" height="100%" align="center" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyab-raza&label=Profile%20views&color=0e75b6&style=flat" alt="tayyab-raza" /> </p>
 
